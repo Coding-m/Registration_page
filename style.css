@@ -1,0 +1,80 @@
+*{
+    padding: 0%;
+    margin: 0%;
+  background-color: white;
+}
+
+.myform{
+    height: 400px;
+    width: 430px;
+   
+    margin-left: 600px;
+    margin-top: 85px;
+    background-color:white;
+    border: 1px solid black;
+    font-size: 15px;
+    color: #004d40;
+    
+    
+}
+
+.formSubmit{
+    background-color:darkblue;
+    color: white;
+}
+
+.heading{
+    margin-top: 50px;
+}
+
+.error{
+ color: red;
+ font-weight: 600;
+}
+
+#username {
+    font-size: 16px;
+    
+    border-bottom: 2px solid blue;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+    
+  
+}
+
+#contact {
+    font-size: 16px;
+
+    border-bottom: 2px solid blue;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+}
+
+#email {
+    font-size: 16px;
+    
+    border-bottom: 2px solid blue;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+}
+
+#password{
+    font-size: 16px;
+    
+    border-bottom: 2px solid blue;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+}
+
+#cpassword{
+    font-size: 16px;
+    
+    border-bottom: 2px solid blue;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+}
